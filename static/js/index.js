@@ -136,7 +136,6 @@ const evaluationConfig = {
         'damage',
         'dawn',
         'deformation',
-        'example',
         'formulation',
         'ghost',
         'gorgonzola',
@@ -148,8 +147,7 @@ const evaluationConfig = {
         'minority',
         'mortgage',
         'navigation',
-        'nomad',
-        'revision'
+        'nomad'
     ],
     methods: [
         { key: 'CPA', label: 'CPA cue' },

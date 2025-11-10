@@ -221,6 +221,11 @@ body {
   margin: 0 auto 1.5rem;
 }
 
+.section:nth-of-type(even),
+.hero:nth-of-type(even) {
+  background: var(--background-secondary);
+}
+
 .hero-summary {
   margin: 1.5rem auto 0;
   max-width: 720px;

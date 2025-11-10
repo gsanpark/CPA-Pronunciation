@@ -1,8 +1,12 @@
 # Compositional Phoneme Approximation Project Page
 
-This repository hosts the companion website for the IJCNLP-AACL 2025 paper **“Compositional Phoneme Approximation for L1-Grounded L2 Pronunciation Training.”**  
+This repository hosts the project page for the IJCNLP-AACL 2025 paper **“Compositional Phoneme Approximation for L1-Grounded L2 Pronunciation Training.”**  
 
 <https://posthangul.com/CPA-Pronunciation>
+
+## Acknowledgement
+This work was conducted independently of the authors’ past or present institutional affiliations and without external funding.
+We thank Professor Jieun Song of Korea Advanced Institute of Science and Technology (KAIST) and Professor Ho Young Lee of Seoul National University for invaluable consultation and guidance in linguistics.
 
 ## Citation
 
