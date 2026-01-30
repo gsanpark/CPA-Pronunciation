@@ -11,14 +11,12 @@ We thank Professor Jieun Song of Korea Advanced Institute of Science and Technol
 ## Citation
 
 ```
-@misc{park2025compositionalphonemeapproximationl1grounded,
-  title         = {Compositional Phoneme Approximation for L1-Grounded L2 Pronunciation Training},
-  author        = {Jisang Park and Minu Kim and DaYoung Hong and Jongha Lee},
-  year          = {2025},
-  eprint        = {2411.10927},
-  archivePrefix = {arXiv},
-  primaryClass  = {cs.CL},
-  url           = {https://arxiv.org/abs/2411.10927}
+@inproceedings{park2025compositional,
+  title={Compositional Phoneme Approximation for L1-Grounded L2 Pronunciation Training},
+  author={Park, Jisang and Kim, Minu and Hong, DaYoung and Lee, Jongha},
+  booktitle={Proceedings of the 14th International Joint Conference on Natural Language Processing and the 4th Conference of the Asia-Pacific Chapter of the Association for Computational Linguistics},
+  pages={434--443},
+  year={2025}
 }
 ```
 
