@@ -2,7 +2,7 @@
 
 This repository hosts the project page for the IJCNLP-AACL 2025 paper **“Compositional Phoneme Approximation for L1-Grounded L2 Pronunciation Training.”**  
 
-<https://posthangul.com/CPA-Pronunciation>
+<https://gsanpark.github.io/CPA-Pronunciation>
 
 ## Acknowledgement
 This work was conducted independently of the authors’ past or present institutional affiliations and without external funding.
